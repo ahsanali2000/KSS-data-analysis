@@ -1,0 +1,9 @@
+main-> auxalary tables
+first api check only main tables
+second worked for tables as well
+
+1. count the invalid terms
+2. From valid we are intrested in ratio of complex and simple terms
+    -> if the term was resolved by first API it is simple and if it was resolved by second API it is complex
+3. From all valid terms we are interested in depth of main terms
+4. My code should by open source
