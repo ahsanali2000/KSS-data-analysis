@@ -1,9 +1,43 @@
 main-> auxalary tables
 first api check only main tables
 second worked for tables as well
+***
+# From all valid terms we are interested in depth of main terms
 
-1. count the invalid terms
-2. From valid we are intrested in ratio of complex and simple terms
-    -> if the term was resolved by first API it is simple and if it was resolved by second API it is complex
-3. From all valid terms we are interested in depth of main terms
-4. My code should by open source
+
+How many terms found in catalog are valid. which of these are dewey  numbers and which are built numbers.
+
+******
+main question is "Whether terms typically comes from top or bottom of dictionary."
+
+create three histograms for the length of each term
+one for valid terms from dewey number
+one for valid terms from builtnumer(without table numbers)
+one of togather all valid terms
+
+
+
+from the complex terms built number extract simple number
+
+
+# Evaluation
+why we choosed this approach for this task
+we tested different APIs
+reserach libraries etc
+
+
+# add the stats in graphical form
+
+
+use terms of
+
+Valid invalid
+deway number
+built number
+
+It is possible that the term is valid but the API does not resolve it.
+There is also possiblity that the data if from another origin.
+
+This data is from belguim libarary.
+
+# in introduction talk about dewey classification
