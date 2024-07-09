@@ -41,3 +41,25 @@ There is also possiblity that the data if from another origin.
 This data is from belguim libarary.
 
 # in introduction talk about dewey classification
+
+
+
+
+
+
+###  Overview
+
+- **
+- **Endpoint Example**: `https://coli-conc.gbv.de/api/concepts?notation={term}&voc={voc}`
+- **Key Parameters**:
+  - `notation={term}`: Specify the term or notation.
+  - `voc={voc}`: Specify the vocabulary identifier.
+- **Main Uses**:
+  - Concept Lookup
+  - Vocabulary Integration
+  - Metadata Enrichment
+- **
+- **Related Services**:
+  - SRU (Search/Retrieve via URL)
+  - GOKb (Global Open Knowledgebase)
+  - Linked Data Services
